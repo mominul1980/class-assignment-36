@@ -1,0 +1,33 @@
+.greybg {
+    background: #F6F9FC;
+}
+.newsletter {
+    .massive-text {
+        
+    }
+}
+.search_btn {
+    color: #fff;
+}
+
+.about_section {
+    .blank {
+        width: 30px;
+        height: 1px;
+    }
+    .image_div {
+        width: 483px;
+        height: 213px;
+        img {
+            width: 100%;
+            height: 100%;
+            &:hover {
+                background-color: #F9fafb;
+                color: #000;
+                width: 100%;
+                // background: #fafa;
+            }
+        }
+    }
+}
+

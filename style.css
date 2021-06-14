@@ -1,0 +1,29 @@
+.greybg {
+  background: #F6F9FC;
+}
+
+.search_btn {
+  color: #fff;
+}
+
+.about_section .blank {
+  width: 30px;
+  height: 1px;
+}
+
+.about_section .image_div {
+  width: 483px;
+  height: 213px;
+}
+
+.about_section .image_div img {
+  width: 100%;
+  height: 100%;
+}
+
+.about_section .image_div img:hover {
+  background-color: #F9fafb;
+  color: #000;
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
